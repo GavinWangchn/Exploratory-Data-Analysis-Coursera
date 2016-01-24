@@ -6,4 +6,4 @@ data$Datetime <- as.POSIXct(datetime)
 
 hist(data$Global_active_power, main="Global Active Power", xlab="Global Active Power (kilowatts)", ylab="Frequency", col="Red")
 
-#by Xiaoyi Wang 2016/01/24
+#by Xiaoyi Wang 2016/01/24 in Coursera Exploratory-Data-Analysis-Coursera 
